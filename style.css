@@ -192,7 +192,7 @@ align-items: center;
 .box-img
 {
 height: 280px;
-width: 280px;
+width: 90%;
 padding:10px;
    align-items: center;
 }
