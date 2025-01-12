@@ -147,7 +147,7 @@ padding: 10px;
 /* hero-section */
 .hero-section{
     background-image: url(hero.jpg);
-height: 400px;
+height: 350px;
 background-size: cover;
 display: flex;
 justify-content: center;
@@ -167,4 +167,25 @@ font-size: 14px;
 .hero a{
     text-decoration: none;
     color: #007185 ;
+}
+
+
+/* shop */
+.shop
+{
+    background-color: #e3e6e6;
+    display: flex;
+    padding: 0 10px;
+}
+.box
+{
+    background-color: white;
+    height: 350px;
+   width: 25%;
+   margin:0 10px;
+   padding: 10px;  
+}
+.box-img
+{
+    background-image: url(1.jpg);
 }
