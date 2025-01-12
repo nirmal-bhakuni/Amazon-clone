@@ -191,7 +191,8 @@ align-items: center;
   }
 .box-img
 {
-height: 80%;
+height: 280px;
+width: 280px;
 padding:10px;
    align-items: center;
 }
