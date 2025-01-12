@@ -176,16 +176,25 @@ font-size: 14px;
     background-color: #e3e6e6;
     display: flex;
     padding: 0 10px;
+    height: 600px;
 }
+
 .box
 {
     background-color: white;
-    height: 350px;
+    height: 380px;
    width: 25%;
-   margin:0 10px;
+   margin:10px 10px;
    padding: 10px;  
-}
+display: flexbox;
+align-items: center;
+  }
 .box-img
 {
-    background-image: url(1.jpg);
+height: 280px;
+padding:10px;
+   align-items: center;
+}
+.box a{ 
+    text-decoration: none;
 }
