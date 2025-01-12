@@ -200,3 +200,47 @@ font-size: 14px;
 .box a{ 
     text-decoration: none;
 }
+
+/* footer */
+footer{
+    margin-top: 50px;
+}
+
+  .pan1 {
+    color: white;
+    background-color: #37475a;
+    text-align: center;
+    height: 49px;
+    font-size: 19px;
+    padding: 15px;
+  }
+
+  .pan2
+  {
+    background-color: #232F3E;
+    color: white;
+    display: flex;
+    justify-content: space-evenly ;
+    padding-top: 15px;
+  }
+  .pan2 a{
+    color: #e6e6e6;
+    text-decoration: none;
+    font-size: 14px;
+    padding: 1px;
+  }
+  .pan3{
+    background-color: #131A22;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+  }
+  .pan4
+  {
+    background-color: #131A22;
+    color: #e3e6e6;
+    text-align: center;
+    height: 30px;
+    font-size: 12px;
+  }
