@@ -136,10 +136,12 @@ font-size: 0.8rem;
     color: white;
     background-color: #232F3E;
     height: 39px;
-    display: flex
+    display: flex;
+    font-size: 14px;
+    
 }
 .se{
-padding: 10px;
+padding: 8px 9px; 
 }
 .panel{
     width: 80%;
